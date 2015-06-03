@@ -1,0 +1,10 @@
+Package: t.cpp
+Type: Package
+Title: Theme for ggplot2
+Version: 1.0
+Date: 2015-06-02
+Author: Denisson Silva
+Maintainer: Denisosn Silva <denisson@denissonsilva.com>
+Description: Function Theme for ggplot2
+License: GPL-3
+
